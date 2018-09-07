@@ -1,2 +1,2 @@
 # Bamazon
-An mock storefront CLI app which users may place orders and in turn should deplete inventory 
+An mock storefront CLI (command line interface) app which users may place orders for items and see the item prices. In turn, the program will monitor and deplete the current inventory when orders are placed. If there is no stock for a certain item, the program will let user know that there is no more inventory for that selected item.

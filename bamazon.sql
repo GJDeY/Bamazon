@@ -14,7 +14,21 @@ CREATE TABLE PRODUCTS (
    
    primary key (ITEM_ID)
 );
+
 select * from products
 
+
+
+
 --Inserting data into the 'products' table
-INSERT INTO products(product_name, department_name, price);
+INSERT INTO products
+(product_name, department_name, price)
+values
+(Bat, Sports, 30);
+
+
+--UPDATE products
+--SET product_name = "Bat"
+--where id = 1;
+
+
