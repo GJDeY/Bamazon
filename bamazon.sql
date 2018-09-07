@@ -28,6 +28,7 @@ values
 ('wireless mouse', 'tech', 19, 300,)
 ;
 
+-----------did not need below code to populate mock database--------
 --UPDATE products
 --SET product_name = "Bat"
 --where id = 1;
